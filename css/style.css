@@ -2601,6 +2601,7 @@ label:first-child{
 	h1{
 		font-size: 39px;
 	}
+
 	h2{
 		font-size: 35px;
 	}
@@ -2831,7 +2832,7 @@ label:first-child{
 	}
 
 	.features-list li:nth-child(2) svg{
-		width: 400px;
+		width: 350px;
 		height: 200px;
 	}
 
@@ -2928,6 +2929,7 @@ label:first-child{
 		display: none;
 	}
 }
+
 
 @media (max-width: 300px){
 	.features-list li:nth-child(2) svg{
